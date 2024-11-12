@@ -22,18 +22,14 @@ git push origin main => to push origin / default branch
 git branch  => to check branches
 
 git checkout -b <new name>  => to create and switched new branch
-<<<<<<< HEAD
 
 git branch -M b01 b012   <new name>  => to rename branch
 
+git checkout branchname => to navigate
 
-  git push --set-upstream origin newb
-=======
-git branch -M b01 b012   <new name>  => to rename branch
-
-git checkout main => to navigate
+git push --set-upstream origin newb
 
 git merge newb     
 
 git pull origin main
->>>>>>> main
+
