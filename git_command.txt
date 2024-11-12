@@ -24,3 +24,8 @@ git branch  => to check branches
 git checkout -b <new name>  => to create and switched new branch
 git branch -M b01 b012   <new name>  => to rename branch
 git checkout main => to navigate
+
+
+git merge newb     
+
+git pull origin main
